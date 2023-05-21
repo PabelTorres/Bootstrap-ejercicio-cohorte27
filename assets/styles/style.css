@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 253, 248);
+    color: rgb(0, 0, 0);
+    
+}
+.barraNavegacion{
+    background-color: rgb(42, 82, 138);
+    color: aliceblue;
+    padding: 10px;
+ }
+ 
+ .imagenes{
+    background-color: rgb(125, 182, 205);
+    border: 1px solid black;
+    padding: 10px;
+ }
+ 
+ 
+ .parrafos{
+    background-color: rgb(91, 163, 202);
+    padding: 10px;
+ }
+ 
+ .footer{
+    background-color: rgb(70, 117, 168);
+    color: rgb(227, 255, 239);
+    padding: 10px;
+ }
